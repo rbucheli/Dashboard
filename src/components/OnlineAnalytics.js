@@ -1,7 +1,7 @@
 function OnlineAnalytics() {
   return (
     <div>
-      <h2>OnlineAnalytics</h2>
+      <h2>Online Analytics</h2>
     </div>
   );
 }
