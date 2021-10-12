@@ -1,6 +1,6 @@
 import DashBoard from "./DashBoard";
 import Widget from "./Widget";
-import Reviews from "./Reviews";
+import ReviewsSide from "./ReviewsSide";
 import Customers from "./Customers";
 import OnlineAnalytics from "./OnlineAnalytics";
 import Settings from "./Settings";
@@ -10,7 +10,7 @@ function SideBar() {
     <div className="sidebar">
       <DashBoard />
       <Widget />
-      <Reviews />
+      <ReviewsSide />
       <Customers />
       <OnlineAnalytics />
       <Settings/>

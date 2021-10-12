@@ -1,6 +1,6 @@
 function SentimentalAnalysis() {
   return (
-    <div className="boxes">
+    <div className="analysis-widget">
       <h2>Sentimental Analysis</h2>
       <h2>960</h2>
       <h2>122</h2>
